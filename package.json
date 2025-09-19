@@ -1,0 +1,8 @@
+{
+  "name": "stuff-deps",
+  "version": "1.0.0",
+  "description": "Dependencies for gm3dmo/stuff",
+  "private": true,
+  "dependencies": {
+     "capacitor-notificationhandler": 0.0.2
+}
